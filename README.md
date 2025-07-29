@@ -61,3 +61,4 @@ Lessons learned from Grafana by Sean Bradley
 References:
   - https://grafana.com/grafana/dashboards/ Main site for dashboards
   - https://grafana.devopsbeginners.online/ (My own domain)
+  - https://emman2582.grafana.net/ - My grafana cloud
