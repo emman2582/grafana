@@ -1,2 +1,63 @@
 # grafana
 Lessons learned from Grafana by Sean Bradley
+    - Provision a Linux Server
+    - Install and Start Grafana
+    - Upgrade/Downgrade Grafana
+    - Point Domain Name
+    - Reverse Proxy Grafana with Nginx
+    - Add SSL
+    - Create First Data Source
+    - Panel Rows
+    - Panel Options
+    - Dashboard Versioning
+    - Graph Panel
+    - Stat Panel
+    - Gauge Panel
+    - Bar Gauge Panel
+    - Table Panel
+    - Overview So Far
+    - Create MySQL Data Source, Collector and Dashboard
+    - Create a Custom MySQL Time Series Query
+    - Graphing Non Time Series SQL Data
+    - Install Loki Binary and Start as a Service
+    - Install Promtail Binary and Start as a Service
+    - LogQL
+    - Install a Second Promtail Service
+    - Annotation Queries Linking the Log and Graph Panels
+    - Read Nginx Logs with Promtail
+    - Install Prometheus Service and Data Source
+    - Install Prometheus Dashboard
+    - Setup Grafana Metrics Prometheus Dashboard
+    - Install Second Prometheus Node Exporter
+    - Zabbix Data Source
+    - Import Zabbix Dashboards
+    - Dashboard Variables
+    - A Dashboard Variables Example
+    - Repeating Timeseries using Dashboard Variables
+    - MikroTik 260GS SNMP Dashboard
+    - Alerting Rule for High CPU
+    - Alerting Rules for Node Exporter and Prometheus Down
+    - Create Email Alert Contact Point
+    - Change Email Alert Template
+    - Create Telegram Contact Point
+    - Users and Roles
+    - Teams
+    - Organizations
+    - Grafana Cloud
+    - Install InfluxDB Data Source
+    - Install Telegraf and configure for InfluxDB
+    - Create A Dashboard For Linux System Metrics
+    - Install SNMP Agent and Configure Telegraf SNMP Input
+    - Add Multiple SNMP Agents to Telegraf Config
+    - Import an SNMP Dashboard for InfluxDB and Telegraf
+    - Elasticsearch Data Source
+    - Elasticsearch Filebeat
+    - Elasticsearch Metricbeat
+    - Setup an Advanced Elasticsearch Dashboard
+    - Elasticsearch Cluster Tutorial
+    - Cisco Switch Dashboard with the Zabbix Data Source
+    - Grafana Agent Flow
+
+References:
+  - https://grafana.com/grafana/dashboards/ Main site for dashboards
+  - https://grafana.devopsbeginners.online/ (My own domain)
